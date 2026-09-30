@@ -6,7 +6,7 @@
 
 <a id="welcome"></a>
 
-### Building software products. Learning every day.
+### Building software products.
 
 AI-Assisted • Distributed Systems
 
