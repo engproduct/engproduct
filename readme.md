@@ -12,3 +12,7 @@ AI-Assisted • Distributed Systems
 
 <br/>
 
+<!-- 
+https://academy.claude.com/verify/c595ee5d84b1939ef611921c5a3cd57d
+-->
+
