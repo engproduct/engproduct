@@ -12,7 +12,5 @@ AI-Assisted • Distributed Systems
 
 <br/>
 
-<!-- 
-https://academy.claude.com/verify/c595ee5d84b1939ef611921c5a3cd57d
--->
+<a href="https://academy.claude.com/verify/c595ee5d84b1939ef611921c5a3cd57d"><img src="./docs/assets/images/layout/badges/badge-claude-101-80px2x.png" width="60" height="60" alt="Claude 101" border="0" style="border: none;"></a>
 
